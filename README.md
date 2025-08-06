@@ -126,19 +126,4 @@ Generates denoised images in `results/` and prints quantitative metrics.
 
 This project is released under the **MIT License**.
 
----
 
-## ✉️ Contact
-
-Contributions, feedback, and questions are welcome! Reach out via **issues** or email.
-
----
-
-Let me know if you'd like:
-
-* a README tailored to a **wavelet + UNet denoiser** (like your own),
-* or integration examples using `wandb`, Kaggle datasets, etc.
-
-[1]: https://www.kaggle.com/code/somnambulating/image-denoising-using-autoencoder-pytorch/output?utm_source=chatgpt.com "Image Denoising using AutoEncoder (PyTorch ) - Kaggle"
-[2]: https://arxiv.org/abs/1912.07358?utm_source=chatgpt.com "Blind Denoising Autoencoder"
-[3]: https://en.wikipedia.org/wiki/Autoencoder?utm_source=chatgpt.com "Autoencoder"
